@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012228270735",
+    "project_id": "vi-chat-f9849",
+    "storage_bucket": "vi-chat-f9849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012228270735:android:d8fbe673b2fa7939779efa",
+        "android_client_info": {
+          "package_name": "com.example.vi_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012228270735-ejkket436otvna0j7pfd9c7rhi2rhas7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vi_chat",
+            "certificate_hash": "a0fa8f4e2ec07392ef948567549846eab285a042"
+          }
+        },
+        {
+          "client_id": "1012228270735-dvel11ea234om78lqtrdo61b9denubn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBDaZLDoN3inPilVh0BXTyRKv9iAf507A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012228270735-dvel11ea234om78lqtrdo61b9denubn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
